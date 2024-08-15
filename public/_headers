@@ -1,0 +1,5 @@
+/_astro/main.wasm*
+	Content-Type: application/wasm
+	Content-Encoding: gzip
+	Cache-Control: no-cache
+

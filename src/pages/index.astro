@@ -1,0 +1,12 @@
+---
+import Layout from '../layouts/Layout.astro';
+import {What} from '../react/What';
+---
+
+<Layout title="Welcome to Astro.">
+	<main>
+		 <What client:only="react" />
+	</main>
+</Layout>
+
+ 
